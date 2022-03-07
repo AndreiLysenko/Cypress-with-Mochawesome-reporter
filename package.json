@@ -1,0 +1,23 @@
+{
+  "name": "cypress-with-mochawesome-reporter",
+  "version": "1.0.0",
+  "description": "test project for cypress with mochawersome reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiLysenko/Cypress-with-Mochawesome-reporter.git"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "Andrei Lysenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiLysenko/Cypress-with-Mochawesome-reporter/issues"
+  },
+  "homepage": "https://github.com/AndreiLysenko/Cypress-with-Mochawesome-reporter#readme"
+}
