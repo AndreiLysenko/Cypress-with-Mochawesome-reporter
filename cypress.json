@@ -1,0 +1,17 @@
+{
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": false,
+    "screenshotsFolder": "cypress/results/mochawesome-report/assets",
+    "retries":{
+        "runMode": 1,
+        "openMode": 1
+        },
+    "reporter": "mochawesome",
+        "reporterOptions": {
+          "reportDir": "cypress/results",
+          "overwrite": false,
+          "html": false,
+          "json": true
+        }
+}
